@@ -1,18 +1,4 @@
-//#include <cstdlib>
-//#include <iostream>
-//#include <iomanip>
-//#include "stdafx.h"
-
-//using namespace std;
-
-//int main(int argc, char** argv) {
-
- //cout<<"Hello World";
-
-//}
-
-
-#include "stdafx.h"
+ #include "stdafx.h"
 #include <iostream>
 #include <random>
 #include <ctime>
